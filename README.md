@@ -1,1 +1,1 @@
-Please Check Me Out In /bin File, Thanks Anyway!
+Please Check Me Out In bin/ Folder, Thanks Anyway!
